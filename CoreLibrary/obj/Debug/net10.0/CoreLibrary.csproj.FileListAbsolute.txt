@@ -1,0 +1,11 @@
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\CoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\CoreLibrary.AssemblyInfoInputs.cache
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\CoreLibrary.AssemblyInfo.cs
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anton\Laba2\CoreLibrary\bin\Debug\net10.0\CoreLibrary.deps.json
+C:\Users\anton\Laba2\CoreLibrary\bin\Debug\net10.0\CoreLibrary.dll
+C:\Users\anton\Laba2\CoreLibrary\bin\Debug\net10.0\CoreLibrary.pdb
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\CoreLibrary.dll
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\refint\CoreLibrary.dll
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\CoreLibrary.pdb
+C:\Users\anton\Laba2\CoreLibrary\obj\Debug\net10.0\ref\CoreLibrary.dll
